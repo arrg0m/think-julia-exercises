@@ -1,0 +1,3 @@
+At this point you have learned about Julia’s core data structures, and you have seen some of the algorithms that use them.
+
+This chapter presents a case study with exercises that let you think about choosing data structures and practice using them.
